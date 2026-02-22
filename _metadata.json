@@ -1,0 +1,73 @@
+{
+  "hash": "78ad14e2",
+  "configHash": "8dde3eea",
+  "lockfileHash": "51605f3b",
+  "browserHash": "6fab0e3e",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "f901eb33",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "1eefd387",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "b08ebf32",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "1f07a94b",
+      "needsInterop": true
+    },
+    "@google/genai": {
+      "src": "../../@google/genai/dist/web/index.mjs",
+      "file": "@google_genai.js",
+      "fileHash": "a207dc76",
+      "needsInterop": false
+    },
+    "@heroicons/react/24/outline": {
+      "src": "../../@heroicons/react/24/outline/esm/index.js",
+      "file": "@heroicons_react_24_outline.js",
+      "fileHash": "864a8c55",
+      "needsInterop": false
+    },
+    "@heroicons/react/24/solid": {
+      "src": "../../@heroicons/react/24/solid/esm/index.js",
+      "file": "@heroicons_react_24_solid.js",
+      "fileHash": "00a14f3d",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1b5364ad",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "0b035515",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-2RADP4CJ": {
+      "file": "chunk-2RADP4CJ.js"
+    },
+    "chunk-6KCF6AHO": {
+      "file": "chunk-6KCF6AHO.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
